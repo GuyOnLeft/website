@@ -3,6 +3,7 @@
     <div class="typing-feature">
       Hi. I'm Jeremy. Welcome to my website.
     </div>
+
   </div>
 </template>
 

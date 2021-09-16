@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import TypeMessage from "@/components/TypeMessage";
+import TypeMessage from "./components/TypeMessage";
 
 export default {
   name: 'App',
